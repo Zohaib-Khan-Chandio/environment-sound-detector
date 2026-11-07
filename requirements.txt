@@ -1,0 +1,9 @@
+streamlit==1.45.1
+scikit-learn==1.6.1
+librosa==0.11.0
+joblib
+numpy
+matplotlib
+soundfile
+# After running the version cell in the README, pin numpy, joblib and
+# matplotlib to the same versions as your Colab notebook.

@@ -1,0 +1,7 @@
+{
+  "sr": 22050,
+  "duration": 4.0,
+  "n_mfcc": 13,
+  "threshold": 0.55,
+  "sklearn_version": "1.6.1"
+}
